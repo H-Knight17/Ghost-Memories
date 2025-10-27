@@ -1,0 +1,40 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Aa]ssets/AssetStoreTools/
+# Unity Project Settings
+/ProjectSettings/ProjectVersion.txt
+
+# Visual Studio files
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# macOS files
+.DS_Store
+# Linux files
+.fuse_hidden*
+
+# Packages cache (important!)
+/Packages/package-cache/
+
+# Test Runner results
+# Note: Keep only the .gitignore file inside this folder if present!
+/TestResults/
+
+# Other cache files
+/UserSettings/Layouts/
