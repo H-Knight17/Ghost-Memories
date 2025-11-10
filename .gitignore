@@ -1,0 +1,17 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+# Build/Export files
+/[Bb]uilds/
+/[Ee]xports/
+# Packages
+/[Ll]ogs/
+/[Pp]ackage[Cc]ache/
+# Meta files that are often system specific
+*.pid
+*.unityproj
+*.suo
+*.sln
+*.user
+*.userprefs
